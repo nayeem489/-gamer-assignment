@@ -1,0 +1,60 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&family=Work+Sans:ital,wght@0,400;0,500;0,800;1,700&display=swap');
+</style>
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+
+}
+nav li{
+    list-style: none;
+}
+.nav{
+     display: flex;
+     justify-content: space-between;
+}
+.ul{ 
+    
+}
+.Frame{
+    width: 86.041px;
+height: 40px;
+flex-shrink: 0; 
+
+}
+.gamer{
+    text-align: center;
+
+font-size: 45px;margin-top: 15px; margin-left:150px ;
+
+
+}
+.lion{color:#FF42A5 ;
+
+}
+.follow{
+    width: 142px;
+height: 56px;
+border-radius: 8px;
+background: rgba(11, 2, 35, 0.10);
+margin-top: 20px; margin-right: 150px;
+}
+.tiger{
+    color: #3C354F;
+text-align: center;
+
+font-size: 18px;}
+.class{
+    color: #3C354F;
+text-align: center;
+
+font-size: 18px;  margin-top:15px ; 
+
+
+}
+.header{
+    background: #FFF;
+box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);width: 1400px;
+height: 130px;
+
+}
