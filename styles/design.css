@@ -57,4 +57,80 @@ font-size: 18px;  margin-top:15px ;
 box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);width: 1400px;
 height: 130px;
 
+} 
+.div1{
+    margin-left: 100px; margin-top: 100px; }
+.play{
+    color: #0B0223;
+text-align: center;
+
+font-size: 48px;
+text-transform: uppercase;
+}
+.goat-messi{
+    
+
+font-size: 95px;
+
+text-transform: uppercase;background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.main{
+    display: flex; justify-content: space-between;
+}
+.main2{
+    display: flex; justify-content: space-between;
+}
+.mann-mera{
+    margin-top: 90px;
+}
+.btn-1{ background: #FF42A5;color: #FFF; 
+    font-size: 15px;
+width: 142px;
+    height: 56px;
+    border-radius: 20px;
+}
+.growing{background: #4EC5F7;color: #FFF; 
+    font-size: 15px;
+width: 142px;
+    height: 56px;
+    border-radius: 20px;
+
+}
+.prime{
+    color: #534C64;
+
+
+font-size: 20px;
+
+text-transform: lowercase;
+}
+.free-fire{
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.h3-person{
+    color: #534C64;
+text-align: right;
+
+font-size: 24px;
+
+line-height: 45px; /* 187.5% */
+}
+.main2{
+    background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);  
+}.div1{
+    fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%,
+     rgba(241, 68, 174, 0.03) 100%);
+}.games{
+    color: #0B0223;
+text-align: center;
+
+font-size: 48px;
+
 }
