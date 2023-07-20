@@ -33,11 +33,12 @@ font-size: 45px;margin-top: 15px; margin-left:150px ;
 
 }
 .follow{
-    width: 142px;
+    width: 262px;
 height: 56px;
 border-radius: 8px;
 background: rgba(11, 2, 35, 0.10);
-margin-top: 20px; margin-right: 150px;
+margin-top: 20px; margin-right: 150px; border:0px ;
+
 }
 .tiger{
     color: #3C354F;
@@ -55,7 +56,7 @@ font-size: 18px;  margin-top:15px ;
 .header{
     background: #FFF;
 box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);width: 1400px;
-height: 130px;
+height: 130px; width:1520px; ;
 
 } 
 .div1{
@@ -79,10 +80,11 @@ background-clip: text;
 }
 
 .main{
-    display: flex; justify-content: space-between;
+    display: flex; justify-content: space-between;width: 1520px;
 }
 .main2{
-    display: flex; justify-content: space-between;
+    display: flex; justify-content: space-between;width: 1520px;
+
 }
 .mann-mera{
     margin-top: 90px;
@@ -91,13 +93,13 @@ background-clip: text;
     font-size: 15px;
 width: 142px;
     height: 56px;
-    border-radius: 20px;
+    border-radius: 20px; border:0px ;
 }
 .growing{background: #4EC5F7;color: #FFF; 
     font-size: 15px;
 width: 142px;
     height: 56px;
-    border-radius: 20px;
+    border-radius: 20px; border: 0px; margin-left:10px ;
 
 }
 .prime{
@@ -134,3 +136,122 @@ text-align: center;
 font-size: 48px;
 
 }
+.meaning{
+    width: 1520px;
+
+}
+.nayeem{
+    margin-left: 30px;
+}
+.nayeem-2{margin-left:25px;
+
+}
+.nayeem-3{margin-left:25px;
+
+}
+.nayeem-4{margin-left:30px;
+
+}
+.prime-2{color: #534C64;
+    text-align: center;
+   
+    font-size: 18px;margin-bottom:20px ;
+    
+
+}
+.optimus{
+    display: flex; justify-content: space-between; }
+    .learn{
+        margin-left:20PX ;color: #534C64; font-size: 18px
+    }
+    .nature{
+        margin-right:20px ;color: #534C64; font-size: 18px
+    }
+    .optimus-1{color: #534C64; font-size: 18px
+
+    }
+    .optimus-1{color: #534C64; font-size: 18px
+
+    }
+    .naruto{
+        
+        font-size: 48px;
+       
+    } .hinata
+    {
+        width: 550px;
+        height: 500px;
+    }
+    .main-5{
+        display: flex; justify-content: space-around;
+    }
+    
+    .angela{position: relative;
+        top: 190px;
+        right: 90px;
+
+    }
+    .sasuke{
+        margin-left:100px ;
+    }
+    .nagato{margin-left:153px ; margin-top:40px ;
+        height: 80px;
+       
+        background: rgba(11, 2, 35, 0.10);
+        border:0px ; width: 243px; display: flex; border-radius: 50px;
+        background: #FFF;
+        }
+    .nagato:hover{
+        border: solid #FF42A5;
+    }  
+    .soulhunter:hover{
+        border: solid #FF42A5;  
+    }  
+    
+    .kakashi{ margin-top: 100px; justify-content: space-between;
+        width: 1520px;background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+height: 427px;
+flex-shrink: 0;background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+
+    }
+    .sakura{ display: flex;}
+    .minato{
+         display: flex;
+    } .tomar{
+        color: #FFF;
+    }
+    .shizuka{
+        display: flex; justify-content: center;color: #FFF;
+    }
+      ul li{
+        list-style:none ; margin-left: 15px;
+      } 
+      .doreamon{
+        display: flex; justify-content: center;color: #FFF;
+      }
+      .pubg{  text-align: center; color: #FFF;} 
+      .outcome{
+        display: flex;color:
+      }
+      .soulhunter{margin-left:108px ; margin-top:40px ;
+        height: 80px;
+       
+        background: rgba(11, 2, 35, 0.10);
+        border:0px ; width: 243px; display: flex; border-radius: 50px;
+        background: #FFF;
+
+      }
+      .content{
+        background:transparent ; border: 0; 
+      }
+     .Collection{ text-align: center; margin-top: 12px;
+     }
+     .football{
+        background: #0B0223; width: 1520px; height:417px ;
+     }
+     .heart-attack{
+       justify-content: center; margin-top:100px ;
+     }
+     .gamer{
+        margin-top: 50px;
+     }
